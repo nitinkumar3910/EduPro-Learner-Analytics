@@ -1,0 +1,300 @@
+{
+  "total_users": 3000,
+  "total_transactions": 10000,
+  "total_courses": 60,
+  "total_instructors": 60,
+  "total_revenue": 911323.47,
+  "free_transactions": 6403,
+  "paid_transactions": 3597,
+  "pct_free": 64.03,
+  "pct_paid": 35.97,
+  "age_stats_users": {
+    "count": 3000.0,
+    "mean": 24.974333333333334,
+    "std": 6.046475103392681,
+    "min": 15.0,
+    "25%": 20.0,
+    "50%": 25.0,
+    "75%": 30.0,
+    "max": 35.0
+  },
+  "age_group_users": {
+    "26-35": 1446,
+    "18-25": 1121,
+    "<18": 433,
+    "36+": 0
+  },
+  "age_group_enrollments": {
+    "26-35 (Early/Mid Career)": 4799,
+    "18-25 (Young Adult)": 3732,
+    "<18 (Youth)": 1469
+  },
+  "gender_users": {
+    "Female": 1520,
+    "Male": 1480
+  },
+  "gender_users_pct": {
+    "Female": 50.66666666666667,
+    "Male": 49.333333333333336
+  },
+  "gender_enrollments": {
+    "Female": 5078,
+    "Male": 4922
+  },
+  "gender_enrollments_pct": {
+    "Female": 50.78,
+    "Male": 49.220000000000006
+  },
+  "courses_per_learner": {
+    "count": 3000.0,
+    "mean": 3.3333333333333335,
+    "std": 4.352149195868242,
+    "min": 1.0,
+    "25%": 1.0,
+    "50%": 1.0,
+    "75%": 3.0,
+    "max": 16.0
+  },
+  "learner_tiers_count": {
+    "1 course": 1620,
+    "2 courses": 612,
+    "3-4 courses": 314,
+    "5-8 courses": 0,
+    "9+ courses": 454
+  },
+  "learner_tiers_enrollments": {
+    "1 course": 1620,
+    "2 courses": 1224,
+    "3-4 courses": 1070,
+    "5-8 courses": 0,
+    "9+ courses": 6086
+  },
+  "category_enrollments": {
+    "Data Science": 916,
+    "Finance": 864,
+    "Web Development": 844,
+    "Business": 833,
+    "Project Management": 829,
+    "Artificial Intelligence": 829,
+    "Design": 827,
+    "Cybersecurity": 819,
+    "Machine Learning": 819,
+    "Digital Marketing": 808,
+    "Marketing": 806,
+    "Programming": 806
+  },
+  "level_enrollments": {
+    "Beginner": 3573,
+    "Advanced": 3475,
+    "Intermediate": 2952
+  },
+  "type_enrollments": {
+    "Free": 6403,
+    "Paid": 3597
+  },
+  "age_category_crosstab": {
+    "Artificial Intelligence": {
+      "18-25 (Young Adult)": 317,
+      "26-35 (Early/Mid Career)": 383,
+      "<18 (Youth)": 129
+    },
+    "Business": {
+      "18-25 (Young Adult)": 307,
+      "26-35 (Early/Mid Career)": 406,
+      "<18 (Youth)": 120
+    },
+    "Cybersecurity": {
+      "18-25 (Young Adult)": 307,
+      "26-35 (Early/Mid Career)": 391,
+      "<18 (Youth)": 121
+    },
+    "Data Science": {
+      "18-25 (Young Adult)": 343,
+      "26-35 (Early/Mid Career)": 459,
+      "<18 (Youth)": 114
+    },
+    "Design": {
+      "18-25 (Young Adult)": 311,
+      "26-35 (Early/Mid Career)": 396,
+      "<18 (Youth)": 120
+    },
+    "Digital Marketing": {
+      "18-25 (Young Adult)": 296,
+      "26-35 (Early/Mid Career)": 385,
+      "<18 (Youth)": 127
+    },
+    "Finance": {
+      "18-25 (Young Adult)": 297,
+      "26-35 (Early/Mid Career)": 431,
+      "<18 (Youth)": 136
+    },
+    "Machine Learning": {
+      "18-25 (Young Adult)": 305,
+      "26-35 (Early/Mid Career)": 394,
+      "<18 (Youth)": 120
+    },
+    "Marketing": {
+      "18-25 (Young Adult)": 313,
+      "26-35 (Early/Mid Career)": 367,
+      "<18 (Youth)": 126
+    },
+    "Programming": {
+      "18-25 (Young Adult)": 305,
+      "26-35 (Early/Mid Career)": 392,
+      "<18 (Youth)": 109
+    },
+    "Project Management": {
+      "18-25 (Young Adult)": 296,
+      "26-35 (Early/Mid Career)": 418,
+      "<18 (Youth)": 115
+    },
+    "Web Development": {
+      "18-25 (Young Adult)": 335,
+      "26-35 (Early/Mid Career)": 377,
+      "<18 (Youth)": 132
+    }
+  },
+  "gender_category_crosstab": {
+    "Artificial Intelligence": {
+      "Female": 413,
+      "Male": 416
+    },
+    "Business": {
+      "Female": 418,
+      "Male": 415
+    },
+    "Cybersecurity": {
+      "Female": 430,
+      "Male": 389
+    },
+    "Data Science": {
+      "Female": 479,
+      "Male": 437
+    },
+    "Design": {
+      "Female": 424,
+      "Male": 403
+    },
+    "Digital Marketing": {
+      "Female": 417,
+      "Male": 391
+    },
+    "Finance": {
+      "Female": 451,
+      "Male": 413
+    },
+    "Machine Learning": {
+      "Female": 403,
+      "Male": 416
+    },
+    "Marketing": {
+      "Female": 385,
+      "Male": 421
+    },
+    "Programming": {
+      "Female": 420,
+      "Male": 386
+    },
+    "Project Management": {
+      "Female": 425,
+      "Male": 404
+    },
+    "Web Development": {
+      "Female": 413,
+      "Male": 431
+    }
+  },
+  "age_level_crosstab": {
+    "Advanced": {
+      "18-25 (Young Adult)": 1300,
+      "26-35 (Early/Mid Career)": 1641,
+      "<18 (Youth)": 534
+    },
+    "Beginner": {
+      "18-25 (Young Adult)": 1345,
+      "26-35 (Early/Mid Career)": 1727,
+      "<18 (Youth)": 501
+    },
+    "Intermediate": {
+      "18-25 (Young Adult)": 1087,
+      "26-35 (Early/Mid Career)": 1431,
+      "<18 (Youth)": 434
+    }
+  },
+  "gender_level_crosstab": {
+    "Advanced": {
+      "Female": 1758,
+      "Male": 1717
+    },
+    "Beginner": {
+      "Female": 1811,
+      "Male": 1762
+    },
+    "Intermediate": {
+      "Female": 1509,
+      "Male": 1443
+    }
+  },
+  "chi2_tests": {
+    "age_vs_category": {
+      "chi2": 18.01296079483907,
+      "p_value": 0.7052195982621285,
+      "dof": 22,
+      "cramers_v": 0.030010798718827086
+    },
+    "age_vs_level": {
+      "chi2": 3.133064561552854,
+      "p_value": 0.5358094954122223,
+      "dof": 4,
+      "cramers_v": 0.012516118730566706
+    },
+    "age_vs_type": {
+      "chi2": 4.004445098781294,
+      "p_value": 0.13503482789741822,
+      "dof": 2,
+      "cramers_v": 0.020011109661338858
+    },
+    "gender_vs_category": {
+      "chi2": 8.774031257985586,
+      "p_value": 0.6427413126240817,
+      "dof": 11,
+      "cramers_v": 0.029620991303441528
+    },
+    "gender_vs_level": {
+      "chi2": 0.1977832227130529,
+      "p_value": 0.9058408855675765,
+      "dof": 2,
+      "cramers_v": 0.004447282571560446
+    },
+    "gender_vs_type": {
+      "chi2": 0.1424859781395828,
+      "p_value": 0.7058220151473686,
+      "dof": 1,
+      "cramers_v": 0.003774731488988095
+    }
+  },
+  "payment_methods": {
+    "PayPal": 3389,
+    "Credit Card": 3333,
+    "Bank Transfer": 3278
+  },
+  "payment_methods_pct": {
+    "PayPal": 33.89,
+    "Credit Card": 33.33,
+    "Bank Transfer": 32.78
+  },
+  "monthly_enrollments": {
+    "2025-01": 833,
+    "2025-02": 766,
+    "2025-03": 857,
+    "2025-04": 831,
+    "2025-05": 825,
+    "2025-06": 899,
+    "2025-07": 826,
+    "2025-08": 844,
+    "2025-09": 870,
+    "2025-10": 762,
+    "2025-11": 869,
+    "2025-12": 818
+  }
+}
